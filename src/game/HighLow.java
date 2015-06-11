@@ -1,6 +1,6 @@
 //=======================================
 // High and Low - by Nico Poblete
-// Copyright 2012 Nico Poblete/Ocampo's Games Indep.
+// Copyright 2012 Nico Poblete
 // ** This produces the high-low game, which has
 //    the user guess if the second number is 
 //    higher or lower than the first number.
